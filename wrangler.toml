@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-06-03"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://united-frog-51388.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="Aci8AAIncDE3ZTE0MzVmMWE2ZTI0MzMyYmYwZDM4OWE3OTA4NTI0N3AxNTEzODg"
